@@ -3,9 +3,9 @@ import praktikum.Bun;
 
 import static org.junit.Assert.assertEquals;
 
-public class BunTests {
+public class BunTest {
 
-    private final String name = "БигМак булка";
+    private final String name = "БУЛОЧКА С КУНЖУТОМ";
     private final float price = 300;
     Bun bun = new Bun(name, price);
 
